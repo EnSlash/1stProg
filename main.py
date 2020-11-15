@@ -7,8 +7,6 @@ import select
 from paramiko import SSHClient
 from paramiko import AutoAddPolicy
 
-print('Version 0.0.7')
-
 StatusDevice = 'Status host'
 ConnectDevice = 'Connect to host'
 Update = 'Update'
